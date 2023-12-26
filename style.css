@@ -16,7 +16,7 @@ body {
 
 
 .container {
-    background-image: url("/Users/krishnapratap/Desktop/Dev/Project/Calculator/calculator.jpeg");
+    background-image: url("calculator.jpeg");
     display: grid;
     grid-template-rows: repeat(4, auto);
     height: 80vh;
